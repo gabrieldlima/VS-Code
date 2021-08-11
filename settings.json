@@ -1,18 +1,13 @@
 {
-    "workbench.colorCustomizations": {
-        "editor.background": "#1E2127"
-    },
-    "editor.tokenColorCustomizations": null,
-    "explorer.confirmDragAndDrop": false,
-    "diffEditor.ignoreTrimWhitespace": true,
-    "debug.showInStatusBar": "always",
-    "debug.internalConsoleOptions": "openOnSessionStart",
-    "window.titleBarStyle": "custom",
+    "workbench.colorTheme": "GitHub Dark Default",
+    "workbench.iconTheme": "material-icon-theme",
     "editor.fontFamily": "Cascadia Code",
-    "editor.wordWrap": "wordWrapColumn",
-    "editor.wordWrapColumn": 200,
-    "window.zoomLevel": 1,
+    "files.autoSave": "afterDelay",
+    "workbench.startupEditor": "none",
     "editor.fontSize": 13,
-    "workbench.colorTheme": "Dracula",
-    "workbench.iconTheme": "material-icon-theme"
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.ignoreMissingGitWarning": true,
+    "window.zoomLevel": 1,
+    "editor.minimap.renderCharacters": false,
+    "explorer.confirmDelete": false
 }
