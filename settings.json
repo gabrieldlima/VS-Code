@@ -1,13 +1,22 @@
 {
     "workbench.colorTheme": "GitHub Dark Default",
     "workbench.iconTheme": "material-icon-theme",
-    "editor.fontFamily": "Cascadia Code",
-    "files.autoSave": "afterDelay",
     "workbench.startupEditor": "none",
     "editor.fontSize": 13,
     "security.workspace.trust.untrustedFiles": "open",
     "git.ignoreMissingGitWarning": true,
-    "window.zoomLevel": 1,
     "editor.minimap.renderCharacters": false,
-    "explorer.confirmDelete": false
+    "explorer.confirmDelete": false,
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.automationShell.linux": "",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.fontSize": 13,
+    "powermode.enabled": true,
+    "powermode.presets": "flames",
+    "powermode.explosionSize": 5,
+    "terminal.integrated.cursorStyle": "line",
+    "editor.fontLigatures": null,
+    "vim.cursorStylePerMode.normal": "line",
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "'Cascadia Code'"
 }
